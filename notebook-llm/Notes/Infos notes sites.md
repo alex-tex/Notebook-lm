@@ -1,4 +1,6 @@
 **liens:**
+https://www.unige.ch/dinfo/
+
 -/mes-comptes
 moodle.unige.ch
 mediaserver.unige.ch
