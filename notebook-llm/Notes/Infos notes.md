@@ -5,6 +5,7 @@ mediaserver.unige.ch
 
 **bibliothèque:**
 swisscovery.unige.ch
+/biblio
 
 **technique/informatique:**
 -/charte-it
