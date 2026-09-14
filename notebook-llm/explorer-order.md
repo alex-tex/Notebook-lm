@@ -2,6 +2,6 @@ This note is maintained by the Explorer Order Editor plugin. It stores the manua
 
 ```json
 {
-  "/": ["Inbox","Notes","Courses","Assignments","Archive","Raw","System"]
+  "/": ["Inbox","Notes","Courses","Assignments","Cheat Sheets","Archive","Raw","System","Excalidraw"]
 }
 ```

@@ -6,5 +6,8 @@
   "obsidian-tasks-plugin",
   "table-editor-obsidian",
   "obsidian-git",
-  "calendar"
+  "calendar",
+  "obsidian-excalidraw-plugin",
+  "obsidian-math-plus",
+  "excalidraw-extras"
 ]
