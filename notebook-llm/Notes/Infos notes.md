@@ -2,6 +2,7 @@
 -/mes-comptes
 moodle.unige.ch
 mediaserver.unige.ch
+/steps/declarations
 
 **bibliothèque:**
 swisscovery.unige.ch
