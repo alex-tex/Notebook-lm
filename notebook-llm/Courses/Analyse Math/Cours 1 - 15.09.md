@@ -18,3 +18,14 @@ assertions logiques: énoncé
 Pas tous les énoncés sont des assertions admissibles. 
 Exemples: 
 • “Lana Del Rey est mieux que Sibelius” (un énoncé faisant appel à des valeur subjectives) (=> faux)
+
+### Négation
+
+¬ (négation, “non”): 
+![[Pasted image 20260915124743.png]]
+
+
+Les autres opérations sont binaires: elles associent une assertion `a deux assertions données.
+
+![[Pasted image 20260915124843.png]]
+
