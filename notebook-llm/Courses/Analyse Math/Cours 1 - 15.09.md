@@ -31,8 +31,13 @@ Les autres opérations sont binaires: elles associent une assertion `a deux asse
 ![[Pasted image 20260915124843.png]]
 
 
-## L'implication
+### L'implication
 
 L'opération "=>" indique "implique". Exemple:
 
 n > 3  => n > 2
+
+![[Pasted image 20260915125340.png]]
+
+### Equivalence
+

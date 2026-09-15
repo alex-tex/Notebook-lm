@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b2fc382ae641c48",
+        "id": "439f8b8170b81b02",
         "type": "tabs",
         "children": [
           {
-            "id": "759306c9a7fc68d2",
+            "id": "3624e58eb5ff7e36",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -226,15 +226,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "759306c9a7fc68d2",
+  "active": "3624e58eb5ff7e36",
   "lastOpenFiles": [
+    "Pasted image 20260915125340.png",
+    "Courses/Analyse Math/Cours 1 - 15.09.md",
     "Pasted image 20260915124843.png",
     "Pasted image 20260915124743.png",
     "1.pdf",
     "Pasted Image 20260915122552_513.png",
     "2026-09-15.md",
     "System/Templates/Nouveau IPA cours - {{date}}.md",
-    "Courses/Analyse Math/Cours 1 - 15.09.md",
     "Raw/Courses/analyse_programme_cours.pdf",
     "Excalidraw/Drawing 2026-09-14 22.00.47.excalidraw.md",
     "Courses/Analyse Math",
