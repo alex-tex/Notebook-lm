@@ -41,3 +41,13 @@ n > 3  => n > 2
 
 ### Equivalence
 
+L'opération "<=>" indique "équivalence". Exemple:
+
+On écrit l'assertion A => B de façon équivalente B <= A, ce qui se lit "B si A".
+
+![[Pasted image 20260915125611.png]]
+
+
+### Convention
+
+l'ordre de opération; ¬, ∧ ∨, ⇒, ⇔ (décroissant)
