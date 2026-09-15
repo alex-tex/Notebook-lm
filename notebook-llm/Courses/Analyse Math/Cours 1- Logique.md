@@ -1,10 +1,10 @@
 ---
 classe: Analyse Math
-type:
+type: cours
 profs:
 date: 0026-09-15
 tags:
-  - Intro
+  - semestre1
 ---
 # Notions de base
 ## 1.1 Logique

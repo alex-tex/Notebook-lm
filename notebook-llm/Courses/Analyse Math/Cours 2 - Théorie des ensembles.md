@@ -1,8 +1,9 @@
 ---
 classe: Analyse Math
-type:
+type: cours
 profs:
 tags:
+  - semestre1
 date: 2026-09-15
 ---
 Un ensemble est une collection non-ordonnée d’élements.
@@ -17,4 +18,8 @@ Un ensemble est une collection non-ordonnée d’élements.
 · {1,2,3} = {2,1,3} = {1,2,3,2,2, 1}
 · N = {0,1,2,3, ... }
 · N* = {1,2,3, ... }
+
+
+
+![[Pasted image 20260915135854.png]]
 
