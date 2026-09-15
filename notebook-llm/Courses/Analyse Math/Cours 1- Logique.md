@@ -90,3 +90,12 @@ un corbeau alors il n’est pas noir”).
 - Dans le raisonnement par l’absurde, pour montrer que A ⇒ B, on suppose la
 négation de la conclusion B et on dérive une contradiction `a l’hypothèse A.
 On déduit que ¬B ⇒ ¬A et donc, par contraposée, A ⇒ B.
+
+A = axiomes habituels de N (à venir)
+B = “N n’a pas de plus grand élément.”
+On a A ⇒ B.
+
+**Démonstration:**  supposons que ¬B =>  il existe un m dans N tel que m ⩾ n pour tout n dans N.
+Mais (par A) m + 1 est dans N et m + 1 > m. Contradiction. 
+
+
