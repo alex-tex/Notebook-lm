@@ -55,3 +55,10 @@ l'ordre de opération; ¬, ∧ ∨, ⇒, ⇔ (décroissant)
 Par exemple:  ¬A ∨ B ∧ C  veut dire  (¬A) ∨ (B ∧ C)
 
 "," veut aussi dire "∧"
+
+## 1.2 Lois de Morgan
+
+¬(A∧B) <=> (¬A) ∨ (¬B)
+¬(A∨B) <=> (¬A) ∧ (¬B)
+
+vérification
