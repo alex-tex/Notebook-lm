@@ -78,4 +78,15 @@ A ⇔ B (“A ssi B”) on montre A ⇒ B (“A seulement si B”) et B ⇒ A (�
 B”). 
 **Formellement: (A ⇔ B) ⇔ (A ⇒ B) ∧ (B ⇒ A)**
 
-.
+- Dans le raisonnement par la contraposée, pour montrer l’implication A ⇒ B
+on montre l’implication ¬B ⇒ ¬A. En effet, par Remarque 1.5 on a
+(A ⇒ B) ⇔ (¬A ∨ B) ⇔ (¬B ⇒ ¬A).
+On appelle l’implication ¬B ⇒ ¬A la contraposée de l’implication A ⇒ B.
+Toute implication est donc équivalente `a sa contraposée.
+Par exemple: “tous les corbeaux sont noirs” est équivalent `a “si un objet
+n’est pas noir alors il n’est pas un corbeau” (mais pas `a “si un objet n’est pas
+un corbeau alors il n’est pas noir”).
+
+- Dans le raisonnement par l’absurde, pour montrer que A ⇒ B, on suppose la
+négation de la conclusion B et on dérive une contradiction `a l’hypothèse A.
+On déduit que ¬B ⇒ ¬A et donc, par contraposée, A ⇒ B.
