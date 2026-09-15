@@ -51,3 +51,6 @@ On écrit l'assertion A => B de façon équivalente B <= A, ce qui se lit "B si 
 ### Convention
 
 l'ordre de opération; ¬, ∧ ∨, ⇒, ⇔ (décroissant)
+
+Par exemple:  ¬A ∨ B ∧ C  veut dire  (¬A) ∨ (B ∧ C)
+
