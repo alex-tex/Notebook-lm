@@ -14,7 +14,7 @@
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": false,
-  "templateFilePath": "Excalidraw/Template.excalidraw",
+  "templateFilePath": "Excalidraw/Templates",
   "scriptFolderPath": "Excalidraw/Scripts",
   "allowJavaScriptFiles": false,
   "storeScriptFilesAsJavaScript": false,
@@ -530,11 +530,6 @@
   "aiEnabled": true,
   "aiVerboseLogging": false,
   "aiProviderProfiles": {
-    "OpenAI": {
-      "provider": "openai",
-      "apiKey": "",
-      "baseURL": "https://api.openai.com/v1"
-    },
     "Anthropic": {
       "provider": "anthropic",
       "apiKey": "",
@@ -542,36 +537,47 @@
     },
     "Google Gemini": {
       "provider": "google",
-      "apiKey": "",
+      "apiKey": "ex-obf:v1:AKMmqSyvMrU4uwCpJ4sBkhyEa4sm9HroEv91lH3DaPJo6TaxKJFV3UqoIV6aQNsDshemNZJahyedOdMbhCzoEcBU/X/haMxq",
       "baseURL": "https://generativelanguage.googleapis.com/v1beta"
     },
-    "xAI": {
-      "provider": "xai",
+    "OpenAI": {
+      "provider": "openai",
       "apiKey": "",
-      "baseURL": "https://api.x.ai/v1"
+      "baseURL": "https://api.openai.com/v1"
     },
     "OpenAI-compatible": {
       "provider": "openai-compatible",
       "apiKey": "",
       "baseURL": "https://api.openai.com/v1"
+    },
+    "xAI": {
+      "provider": "xai",
+      "apiKey": "",
+      "baseURL": "https://api.x.ai/v1"
     }
   },
   "aiTextModelConfigs": {
-    "gpt-5-mini": {
-      "providerId": "OpenAI",
-      "model": "gpt-5-mini",
-      "endpoint": "",
-      "multimodalSupport": true
-    },
     "claude-sonnet-4-5": {
       "providerId": "Anthropic",
       "model": "claude-sonnet-4-5",
       "endpoint": "",
       "multimodalSupport": true
     },
+    "gemini 3.5 flash lite": {
+      "providerId": "Google Gemini",
+      "model": "gemini-3.5-flash-lite",
+      "endpoint": "",
+      "multimodalSupport": true
+    },
     "gemini-2.5-pro": {
       "providerId": "Google Gemini",
-      "model": "gemini-2.5-pro",
+      "model": "gemini-2.5-flash-lite",
+      "endpoint": "",
+      "multimodalSupport": true
+    },
+    "gpt-5-mini": {
+      "providerId": "OpenAI",
+      "model": "gpt-5-mini",
       "endpoint": "",
       "multimodalSupport": true
     },
@@ -789,9 +795,9 @@
       "supportsMaskImageEdits": false
     }
   },
-  "aiDefaultTextModel": "gpt-5-mini",
-  "aiDefaultMultimodalModel": "gpt-5-mini",
-  "aiDefaultImageGenerationModel": "gpt-image-1",
+  "aiDefaultTextModel": "gemini 3.5 flash lite",
+  "aiDefaultMultimodalModel": "gemini 3.5 flash lite",
+  "aiDefaultImageGenerationModel": "gemini-3.1-flash-image-preview",
   "aiDefaultMaxOutgoingTokens": 0,
   "aiDefaultMaxResponseTokens": 0,
   "modifierKeyConfig": {
