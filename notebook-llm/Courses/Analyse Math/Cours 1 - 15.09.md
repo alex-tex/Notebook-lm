@@ -54,3 +54,4 @@ l'ordre de opération; ¬, ∧ ∨, ⇒, ⇔ (décroissant)
 
 Par exemple:  ¬A ∨ B ∧ C  veut dire  (¬A) ∨ (B ∧ C)
 
+"," veut aussi dire "∧"
