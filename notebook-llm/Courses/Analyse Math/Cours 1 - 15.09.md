@@ -2,6 +2,7 @@
 classe: Analyse Math
 type:
 profs:
+date: 0026-09-15
 tags:
   - Intro
 ---
