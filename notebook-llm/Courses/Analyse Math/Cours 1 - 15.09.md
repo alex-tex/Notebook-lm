@@ -61,4 +61,21 @@ Par exemple:  ¬A ∨ B ∧ C  veut dire  (¬A) ∨ (B ∧ C)
 ¬(A∧B) <=> (¬A) ∨ (¬B)
 ¬(A∨B) <=> (¬A) ∧ (¬B)
 
-vérification
+vérification:
+![[Pasted image 20260915132619.png]]
+
+![[Pasted image 20260915133154.png]]
+
+![[Pasted image 20260915133048.png]]
+
+
+- Dans le principe de raisonnement mathématique, aussi appelé modus ponens,
+afin de montrer B (la proposition) on montre A (l'hypothèse) et l'implication A => B. 
+**Formellement: (A ∧ (A ⇒ B)) ⇒ B .**
+
+- Dans le raisonnement par double implication, pour montrer l’équivalence
+A ⇔ B (“A ssi B”) on montre A ⇒ B (“A seulement si B”) et B ⇒ A (“A si
+B”). 
+**Formellement: (A ⇔ B) ⇔ (A ⇒ B) ∧ (B ⇒ A)**
+
+.
