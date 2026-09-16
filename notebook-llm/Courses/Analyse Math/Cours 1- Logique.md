@@ -79,12 +79,25 @@ quand le NON entre dans la parenthèse, ET et OU s’échangent​.
 
 ![[Pasted image 20260915133154.png]]
 
+| x>=1 | y <= 2 | ¬(x>=1) v ¬(y<=2) | x<1 | y>2 | (x<1)∨(y>2). | ¬[(x≥1)**∧**(y≤2)]<=>(x<1)v(y>2) |
+| ---- | ------ | ----------------- | --- | --- | ------------ | -------------------------------- |
+| V    | V      | F                 | F   | F   | F            | V                                |
+| V    | F      | V                 | F   | V   | V            | V                                |
+| F    | V      | V                 | V   | F   | V            | V                                |
+| F    | F      | V                 | V   | V   | V            | V                                |
+
+
 ![[Pasted image 20260915133048.png]]
 
 
-- Dans le principe de raisonnement mathématique, aussi appelé modus ponens,
+
+- Dans le principe de raisonnement mathématique, aussi appelé "modus ponens",
 afin de montrer B (la proposition) on montre A (l'hypothèse) et l'implication A => B. 
-**Formellement: (A ∧ (A ⇒ B)) ⇒ B .**
+**Formellement: (A ∧ (A ⇒ B)) ⇒ B .** Exemple:
+``
+```lua
+if A == true and (A implies B) then B == true end
+```
 
 - Dans le raisonnement par double implication, pour montrer l’équivalence
 A ⇔ B (“A ssi B”) on montre A ⇒ B (“A seulement si B”) et B ⇒ A (“A si
