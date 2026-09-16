@@ -63,3 +63,21 @@ Exemple 1.14. L’assertion ∀x ∈ R, x 2 + 3x + 1 ⩾ 0 est fausse parce pour
 
 # Fonctions
 
+Une fonction consiste de 
+- deux ensembles X et Y
+- d'une règle f associant à chaque x ∈ X, un unique y ∈ Y.
+
+![[Pasted image 20260916133927.png]]
+
+Représentation:
+![[Pasted image 20260916134404.png]]
+
+
+![[Pasted image 20260916134744.png]]
+![[Pasted image 20260916135120.png]]
+
+## Vocabulaire
+
+fonction **f**: 
+**X** (domaine de définition) -> Y  (domaine d'arrivée)
+x (antécédent de y)            -> y = f(x)  (l'image de x) 
