@@ -25,5 +25,5 @@ Sciences 1- 102
 
 # Les Erreurs de Mesure
 
-- Erreurs statistiques: liées aux effets aléatoires, qui change le résultat même si on répète la mesure sous conditions identiques.
-- Erreurs systématiques: liée par exemple à la précision de l'instrument
+- **Erreurs statistiques:** liées aux effets aléatoires, qui change le résultat même si on répète la mesure sous conditions identiques.
+- **Erreurs systématiques:** liée par exemple à la précision de l'instrument.
