@@ -44,7 +44,7 @@ vraie ssi il existe un x ∈ X pour lequel l’assertion A(x) est vraie.
 - **On écrit aussi ∃!x ∈ X, A(x)** quand il existe un unique x ∈ X pour lequel
 l’assertion A(x) est vraie.
 
-Exemple 1.12:
+**Exemple 1.12:**
 (i) ∀n ∈ N, n2 ⩾ n
 (ii) “∃n ∈ N, ∀k ∈ N, k ⩽ n” est fausse (“il existe un plus grand nombre naturel” est fausse; cf. Exemple 1.6)
 (iii) ∀n ∈ N, ∃k ∈ N, k > n (négation de (ii))
@@ -56,4 +56,10 @@ On appelle (i) preuve par contre-exemple.
 Exemple 1.14. L’assertion ∀x ∈ R, x 2 + 3x + 1 ⩾ 0 est fausse parce pour x = −1 on a (−1)2 + 3(−1) + 1 = −1 < 0.
 
 ![[Pasted image 20260916130143.png]]
+
+ ![[Pasted image 20260916133125.png]]
+
+--p14
+
+# Fonctions
 
