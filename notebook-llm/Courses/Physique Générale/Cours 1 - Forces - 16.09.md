@@ -23,3 +23,7 @@ Sciences 1- 102
 - Electromagnétique (champ magnétique)
 - Forte et Faible (liason des proton et neutrons dans un noyau)
 
+# Les Erreurs de Mesure
+
+- Erreurs statistiques: liées aux effets aléatoires, qui change le résultat même si on répète la mesure sous conditions identiques.
+- Erreurs systématiques: liée par exemple à la précision de l'instrument
