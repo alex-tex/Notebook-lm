@@ -31,4 +31,21 @@ Un ensemble est une collection non-ordonnée d’élements.
 ### Distributivité
 
 X n (Y u Z) = (X n Y) u (X n Z)
+
+représentation diagramme de Venn:
+![[diagram]]
 X u (Y n Z) = (X u Y) n (X u Z)
+## Quantificateurs
+
+- Quantifiacteur universel ∀ (“pour tout”). L’assertion ∀x ∈ X, A(x) est
+vraie ssi l’assertion A(x) est vraie pour chaque x ∈ X.
+- **Quantificateur existentiel ∃** (“il existe”). L’assertion ∃x ∈ X, A(x) est
+vraie ssi il existe un x ∈ X pour lequel l’assertion A(x) est vraie.
+- **On écrit aussi ∃!x ∈ X, A(x)** quand il existe un unique x ∈ X pour lequel
+l’assertion A(x) est vraie.
+
+Exemple 1.12:
+(i) ∀n ∈ N, n2 ⩾ n
+(ii) “∃n ∈ N, ∀k ∈ N, k ⩽ n” est fausse (“il existe un plus grand nombre
+naturel” est fausse; cf. Exemple 1.6)
+(iii) ∀n ∈ N, ∃k ∈ N, k > n (négation de (ii))

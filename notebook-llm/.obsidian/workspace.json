@@ -39,14 +39,12 @@
             "id": "b4c79141baa0336b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Courses/Analyse Math/Cours 2 - Théorie des ensembles.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/diagram.md"
               },
-              "icon": "lucide-file",
-              "title": "Cours 2 - Théorie des ensembles"
+              "icon": "excalidraw-icon",
+              "title": "diagram"
             }
           },
           {
@@ -76,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,19 +279,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b4c79141baa0336b",
+  "active": "db0969cbd29572c3",
   "lastOpenFiles": [
+    "Excalidraw/cours1_lf_Drawing 2026-09-16 10.44.41.excalidraw.md",
+    "Excalidraw/diagram.md",
+    "Excalidraw/Drawing 2026-09-16 08.47.44.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-14 22.00.47.excalidraw.md",
+    "Courses/Analyse Math/Cours 2 - Théorie des ensembles.md",
     "Courses/Analyse Math/Cours 1- Logique.md",
     "Courses/Physique Générale/Cours 1 - Forces - 16.09.md",
-    "Excalidraw/cours1_lf_Drawing 2026-09-16 10.44.41.excalidraw.md",
     "Courses/Langages Formels/Cours 1 - Intro au langages formels.md",
     "Courses/Langages Formels",
     "System/Templates/Nouveau COURS - {{date}}.md",
-    "Excalidraw/Drawing 2026-09-16 08.47.44.excalidraw.md",
     "Courses/Physique Générale/Untitled.md",
     "System/Templates/Nouveau IPA cours - {{date}} 1.md",
     "Courses/Physique Générale",
-    "Courses/Analyse Math/Cours 2 - Théorie des ensembles.md",
     "Pasted image 20260915135854.png",
     "Pasted image 20260915133154.png",
     "Pasted image 20260915133048.png",
@@ -307,7 +307,6 @@
     "Pasted Image 20260915122552_513.png",
     "2026-09-15.md",
     "Raw/Courses/analyse_programme_cours.pdf",
-    "Excalidraw/Drawing 2026-09-14 22.00.47.excalidraw.md",
     "Courses/Analyse Math",
     "Raw/Exercices",
     "Raw/Courses",
