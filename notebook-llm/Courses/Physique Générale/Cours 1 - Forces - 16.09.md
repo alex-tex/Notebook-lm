@@ -7,9 +7,9 @@ tags:
   - forces
 date: 2026-09-16
 ---
-**Salle de vendredi**:
-Sciences 1 - 222
-Sciences 1- 102
+**Salles de vendredi**:
+matin (10:15-12:00): Sciences 1 - 222
+aprem (13:15-15:00): Sciences 1- 102
 
 # Forces
 
@@ -19,9 +19,9 @@ Sciences 1- 102
 
 ### Forces fondamentales:
 
-- Gravitationnelle (poids; ex: planètes)
-- Electromagnétique (champ magnétique)
-- Forte et Faible (liason des proton et neutrons dans un noyau)
+- **Gravitationnelle** (poids; ex: planètes)
+- **Electromagnétique** (champ magnétique)
+- **Forte et Faible** (liaison des proton et neutrons dans un noyau)
 
 # Les Erreurs de Mesure
 
