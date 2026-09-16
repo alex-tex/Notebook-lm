@@ -46,6 +46,11 @@ l’assertion A(x) est vraie.
 
 Exemple 1.12:
 (i) ∀n ∈ N, n2 ⩾ n
-(ii) “∃n ∈ N, ∀k ∈ N, k ⩽ n” est fausse (“il existe un plus grand nombre
-naturel” est fausse; cf. Exemple 1.6)
+(ii) “∃n ∈ N, ∀k ∈ N, k ⩽ n” est fausse (“il existe un plus grand nombre naturel” est fausse; cf. Exemple 1.6)
 (iii) ∀n ∈ N, ∃k ∈ N, k > n (négation de (ii))
+
+![[Pasted image 20260916125608.png]]
+
+
+On appelle (i) preuve par contre-exemple.
+Exemple 1.14. L’assertion ∀x ∈ R, x 2 + 3x + 1 ⩾ 0 est fausse parce pour x = −1 on a (−1)2 + 3(−1) + 1 = −1 < 0.
