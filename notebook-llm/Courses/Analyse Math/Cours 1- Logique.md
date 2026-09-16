@@ -65,12 +65,14 @@ Donc
 | F   | V   | V   | V    | V       | V              |
 | F   | F   | V   | V    | F       | V              |
 
- 
 
 ## 1.2 Lois de Morgan
 
-¬(A∧B) <=> (¬A) ∨ (¬B)
-¬(A∨B) <=> (¬A) ∧ (¬B)
+quand le NON entre dans la parenthèse, ET et OU s’échangent​.
+
+exemples:
+¬(A**∧**B) <=> (¬A) **∨** (¬B)
+¬(A**∨**B) <=> (¬A) **∧** (¬B)
 
 vérification:
 ![[Pasted image 20260915132619.png]]
