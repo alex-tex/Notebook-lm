@@ -80,4 +80,4 @@ Représentation:
 
 fonction **f**: 
 **X** (domaine de définition) -> Y  (domaine d'arrivée)
-x (antécédent de y)            -> y = f(x)  (l'image de x) 
+x (un antécédent de y)       -> y = f(x)  (l'image de x) 
