@@ -70,11 +70,11 @@ Donc
 
 quand le NON entre dans la parenthèse, ET et OU s’échangent​.
 
-exemples:
+**exemples:**
 ¬(A**∧**B) <=> (¬A) **∨** (¬B)
 ¬(A**∨**B) <=> (¬A) **∧** (¬B)
 
-vérification:
+**vérification:**
 ![[Pasted image 20260915132619.png]]
 
 ![[Pasted image 20260915133154.png]]
