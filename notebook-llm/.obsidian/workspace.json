@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Langages Formels/Cours 1 - Intro au langages formels.md",
+                "file": "Excalidraw/cours1_lf_Drawing 2026-09-16 10.44.41.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -281,10 +281,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f36611f297447d0e",
+  "active": "945df349f37fcdda",
   "lastOpenFiles": [
-    "Excalidraw/cours1_lf_Drawing 2026-09-16 10.44.41.excalidraw.md",
     "Courses/Langages Formels/Cours 1 - Intro au langages formels.md",
+    "Excalidraw/cours1_lf_Drawing 2026-09-16 10.44.41.excalidraw.md",
     "Courses/Physique Générale/Cours 1 - Forces - 16.09.md",
     "Courses/Langages Formels",
     "System/Templates/Nouveau COURS - {{date}}.md",
