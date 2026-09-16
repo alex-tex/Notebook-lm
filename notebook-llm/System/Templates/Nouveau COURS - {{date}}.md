@@ -5,4 +5,3 @@ profs:
 tags:
 date:
 ---
-{{date}}
