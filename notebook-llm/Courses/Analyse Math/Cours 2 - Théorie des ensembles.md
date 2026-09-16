@@ -56,3 +56,4 @@ On appelle (i) preuve par contre-exemple.
 Exemple 1.14. L’assertion ∀x ∈ R, x 2 + 3x + 1 ⩾ 0 est fausse parce pour x = −1 on a (−1)2 + 3(−1) + 1 = −1 < 0.
 
 ![[Pasted image 20260916130143.png]]
+
