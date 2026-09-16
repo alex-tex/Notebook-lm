@@ -23,3 +23,12 @@ Un ensemble est une collection non-ordonnée d’élements.
 
 ![[Pasted image 20260915135854.png]]
 
+
+
+• {n ∈ N∗ : n divise 15} = {1, 3, 5, 15}
+• P({1, 2}) = {∅, {1}, {2}, {1, 2}}
+
+### Distributivité
+
+X n (Y u Z) = (X n Y) u (X n Z)
+X u (Y n Z) = (X u Y) n (X u Z)
