@@ -5,7 +5,7 @@ profs: Xin Wu
 tags:
   - intro
   - forces
-date: 2026-09-15
+date: 2026-09-16
 ---
 **Salle de vendredi**:
 Sciences 1 - 222
