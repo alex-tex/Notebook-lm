@@ -93,7 +93,7 @@ quand le NON entre dans la parenthèse, ET et OU s’échangent​.
 
 - Dans le principe de raisonnement mathématique, aussi appelé "modus ponens",
 afin de montrer B (la proposition) on montre A (l'hypothèse) et l'implication A => B. 
-**Formellement: (A ∧ (A ⇒ B)) ⇒ B .** Exemple:
+**Formellement: (A ∧ (A ⇒ B)) ⇒ B .** Exemple avec lua:
 ``
 ```lua
 if A == true and (A implies B) then B == true end
