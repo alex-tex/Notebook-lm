@@ -56,6 +56,17 @@ Par exemple:  ¬A ∨ B ∧ C  veut dire  (¬A) ∨ (B ∧ C)
 
 "," veut aussi dire "∧"
 
+Donc
+
+| A   | B   | C   | (¬A) | (B ∧ C) | (¬A) ∨ (B ∧ C) |
+| --- | --- | --- | ---- | ------- | -------------- |
+| V   | V   | V   | F    | V       | V              |
+| V   | F   | V   | F    | F       | F              |
+| F   | V   | V   | V    | V       | V              |
+| F   | F   | V   | V    | F       | V              |
+
+ 
+
 ## 1.2 Lois de Morgan
 
 ¬(A∧B) <=> (¬A) ∨ (¬B)
