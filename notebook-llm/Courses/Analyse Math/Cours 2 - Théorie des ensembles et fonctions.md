@@ -10,9 +10,9 @@ Un ensemble est une collection non-ordonnée d’élements.
 
 **Notation:**
 
-- x ∈ X “x est un ´el´ement de X”
-- x  /∈ X “x n’est pas un ´el´ement de X”
-- {a,b,...,c } l'ensemble courrant des éléments a,b,...,c
+- x ∈ X “x est un élément de X”
+- x  /∈ X “x n’est pas un élément de X”
+- {a,b,...,c } l'ensemble courant des éléments a,b,...,c
 
 > **Exemple**:
 · {1,2,3} = {2,1,3} = {1,2,3,2,2, 1}
@@ -23,6 +23,9 @@ Un ensemble est une collection non-ordonnée d’élements.
 
 ![[Pasted image 20260915135854.png]]
 
+exemples:
+- X={1,2,3,4} et Y={2,4} donc Y⊂X : “Y est inclus dans X”
+- X∪Y : l’union ; X={1,2,3} et Y={3,4,5} donc X∪Y={1,2,3,4,5}
 
 
 • {n ∈ N∗ : n divise 15} = {1, 3, 5, 15}

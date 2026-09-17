@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/PFO/Cours 1 - Histoire des ordis.md",
+                "file": "Courses/Analyse Math/Cours 2 - Théorie des ensembles et fonctions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cours 1 - Histoire des ordis"
+              "title": "Cours 2 - Théorie des ensembles et fonctions"
+            }
+          },
+          {
+            "id": "b4336a2bd8a58046",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260915135854.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260915135854"
             }
           }
         ]
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/PFO/Cours 1 - Histoire des ordis.md",
+                "file": "Courses/Analyse Math/Cours 2 - Théorie des ensembles et fonctions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -229,28 +241,31 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0c4eb681705bde2f",
+  "active": "43a1449055e14ca4",
   "lastOpenFiles": [
+    "Pasted image 20260915135854.png",
+    "Pasted image 20260915133048.png",
+    "Pasted image 20260915132619.png",
+    "Pasted image 20260915132129.png",
+    "Pasted image 20260915125611.png",
+    "Pasted image 20260915125340.png",
+    "Pasted image 20260915124843.png",
+    "Pasted image 20260915124743.png",
+    "Courses/Analyse Math/Cours 2 - Théorie des ensembles et fonctions.md",
+    "Courses/Analyse Math/Cours 1- Logique.md",
+    "Courses/PFO/Cours 1 - Histoire des ordis.md",
     "Pasted image 20260917135145.png",
     "1.pdf",
     "1 - Introduction.pdf",
     "Excalidraw/Drawing 2026-09-17 13.41.59.excalidraw.md",
     "Raw/Courses/2 - Histoire de linformatique.pdf",
-    "Courses/PFO/Cours 1 - Histoire des ordis.md",
-    "Courses/Analyse Math/Cours 1- Logique.md",
     "Courses/PFO",
     "logic.md",
-    "Courses/Analyse Math/Cours 2 - Théorie des ensembles et fonctions.md",
     "Courses/Langages Formels/Cours 1 - Intro au langages formels.md",
     "Courses/IPA (11X001)/Intro - 15.09.md",
     "Pasted image 20260916135120.png",
     "Pasted image 20260916134744.png",
-    "Pasted image 20260916134404.png",
-    "Pasted image 20260916133927.png",
-    "Pasted image 20260916133125.png",
     "Excalidraw/diagram.md",
-    "Pasted image 20260916130143.png",
-    "Pasted image 20260916125608.png",
     "Excalidraw/cours1_lf_Drawing 2026-09-16 10.44.41.excalidraw.md",
     "Excalidraw/Drawing 2026-09-16 08.47.44.excalidraw.md",
     "Excalidraw/Drawing 2026-09-14 22.00.47.excalidraw.md",
@@ -260,9 +275,6 @@
     "Courses/Physique Générale/Untitled.md",
     "System/Templates/Nouveau IPA cours - {{date}} 1.md",
     "Courses/Physique Générale",
-    "Pasted image 20260915135854.png",
-    "Pasted image 20260915133154.png",
-    "Pasted image 20260915133048.png",
     "2026-09-15.md",
     "Raw/Courses/analyse_programme_cours.pdf",
     "Courses/Analyse Math",

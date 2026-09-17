@@ -24,30 +24,19 @@ Ce cours présente une vue d'ensemble de l'histoire de l'informatique, depuis se
       
     
 - **Charles Babbage :** Conçoit la _Difference Engine_ puis l'_Analytical Engine_, la première tentative de machine de calcul programmable à usage général.
-    
-      
-    
+
 - **Ada Lovelace :** Mathématicienne ayant collaboré avec Babbage, reconnue comme la première programmeuse de l'histoire.
-    
-      
-    
+
 - **George Boole (1844-1854) :** Formule l'algèbre booléenne (logique binaire $0$ et $1$), posant la base théorique des circuits digitaux.
-    
-      
-    
 
 **Avancées théoriques et composantes clés du 20ᵉ siècle**
 
   
 
 - **Alan Turing (1936) :** Formalise le concept d'algorithme avec les machines de Turing et la machine de Turing universelle.
-    
-      
-    
+
 - **Claude Shannon (1937) :** Démontre que la logique booléenne peut être simulée par des relais électromécaniques, introduit le terme _bit_ et fonde la théorie de l'information.
-    
-      
-    
+
 - **Thomas Edison (1883) :** Invente le tube à vide, composant essentiel de la première génération d'ordinateurs.
     
       
@@ -56,6 +45,7 @@ Ce cours présente une vue d'ensemble de l'histoire de l'informatique, depuis se
 **Les quatre générations d'ordinateurs**
 
   
+6
 
 |**Génération / Période**|**Composant clé**|**Machines & Événements marquants**|
 |---|---|---|
