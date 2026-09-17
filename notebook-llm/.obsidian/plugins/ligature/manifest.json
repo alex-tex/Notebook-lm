@@ -1,0 +1,9 @@
+{
+  "id": "ligature",
+  "name": "Ligature",
+  "version": "0.1.0",
+  "minAppVersion": "1.8.7",
+  "description": "Replace typed character sequences with Unicode symbols while preserving protected Markdown contexts.",
+  "author": "PMGWork",
+  "isDesktopOnly": false
+}
