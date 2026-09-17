@@ -23,9 +23,19 @@ Un ensemble est une collection non-ordonnée d’élements.
 
 ![[Pasted image 20260915135854.png]]
 
-exemples:
+**exemples**:
 - X={1,2,3,4} et Y={2,4} donc Y⊂X : “Y est inclus dans X”
 - X∪Y : l’union ; X={1,2,3} et Y={3,4,5} donc X∪Y={1,2,3,4,5}
+- X∩Y : l’intersection ; X∩Y contient les éléments qui sont dans X et Y.
+- prends dans X uniquement les éléments qui respectent une condition. 
+  ```lua
+  for _, x in X do
+    if isEven(x) then
+        -- garder x
+    end
+end
+  ```
+- X∖Y : enlever Y de X. prends les éléments de X, puis enlève ceux qui sont aussi dans Y. X={1,2,3,4} et Y={2,4} donc X∖Y={1,3}
 
 
 • {n ∈ N∗ : n divise 15} = {1, 3, 5, 15}
