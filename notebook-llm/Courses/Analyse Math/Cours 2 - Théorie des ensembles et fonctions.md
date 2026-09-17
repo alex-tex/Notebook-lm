@@ -46,7 +46,8 @@ end
 X n (Y u Z) = (X n Y) u (X n Z)
 
 représentation diagramme de Venn:
-![[diagram]]
+![[diagram_venn.png]]
+
 X u (Y n Z) = (X u Y) n (X u Z)
 ## Quantificateurs
 
