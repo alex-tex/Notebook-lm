@@ -144,6 +144,12 @@
       "source": "$ou",
       "replacement": "∨",
       "enabled": true
+    },
+    {
+      "id": "rule-0eeee868-d5fd-4804-ba8b-6eaffc58c937",
+      "source": "$vid",
+      "replacement": "∅",
+      "enabled": true
     }
   ]
 }

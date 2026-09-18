@@ -63,4 +63,4 @@ Soit Σ (ensemble), on note Σ* le langage de tous les mots
 L1 o L2 = {w1 . w2 | w1 appartient à L1, w2 appartient à L2}
 
 
-![[cours1_lf_Drawing 2026-09-16 10.44.41.excalidraw]]
+![[cours1_lf_Drawing 2026-09-16 10.44.41.excalidraw|2000]]
