@@ -54,16 +54,11 @@ Soit Σ (ensemble), on note Σ* le langage de tous les mots
 
 Σ+ = Σ+ \ {ensemble}
 
-
-
-
-
-
 ## Opérations
 
 - Union: L1 u L2
 - Intersection: L1 n L2
-- Complément: L = E* / L
+- Complément: L = Σ* / L
 - Concatération: L1 o L2
 L1 o L2 = {w1 . w2 | w1 appartient à L1, w2 appartient à L2}
 
