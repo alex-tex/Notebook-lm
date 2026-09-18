@@ -62,6 +62,11 @@ $Σ^0$={ε}
 $Σ^1$ = {0,1}
 $Σ^2$ = {00,01,10,11}
 $Σ^3$ = {000,001,010,011,100,101,110,111}
+
+
+>ATTENTION: **il faut pas non plus confondre avec Σ+**
+
+
 ## Opérations
 
 - Union: L1 u L2
