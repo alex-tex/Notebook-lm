@@ -14,8 +14,9 @@ alphabet noté Σ: ensemble fini de symbols
 
 supposons que Σ={a,b} on écrit Σ∗ pour désigner tous les mots possibles construits avec a et b, y compris le mot vide.
 
-Σ∗={∅, a, b, aa, ab, ba, aaa, aab, ... }
+Σ∗={ε, a, b, aa, ab, ba, aaa, aab, ... }
 
+ε désigne le mot vide.
 ### Langage: ensemble de mots
 
 **L ⊂ Σ∗**
