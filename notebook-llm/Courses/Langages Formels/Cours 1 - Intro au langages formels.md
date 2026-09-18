@@ -16,7 +16,7 @@ supposons que Σ={a,b} on écrit Σ∗ pour désigner tous les mots possibles co
 
 Σ∗={ε, a, b, aa, ab, ba, aaa, aab, ... }
 
-ε désigne le mot vide.
+(ε désigne le mot vide).
 ### Langage: ensemble de mots
 
 **L ⊂ Σ∗**
