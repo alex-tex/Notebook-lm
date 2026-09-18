@@ -41,7 +41,12 @@ E+: idem mais mots de longueur au moins 1
 
 E+ = E+ \ {ensemble}
 
---
+### Σ∗ : tous les mots possibles
+
+supposons que Σ={a,b} on écrit Σ∗ pour désigner tous les mots possibles construits avec a et b, y compris le mot vide.
+
+Σ∗={ε, a, b, aa, ab, ba, 
+
 ## Opérations
 
 - Union: L1 u L2
@@ -50,3 +55,5 @@ E+ = E+ \ {ensemble}
 - Concatération: L1 o L2
 L1 o L2 = {w1 . w2 | w1 appartient à L1, w2 appartient à L2}
 
+
+![[cours1_lf_Drawing 2026-09-16 10.44.41.excalidraw]]

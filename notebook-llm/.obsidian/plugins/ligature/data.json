@@ -1,0 +1,137 @@
+{
+  "enabled": true,
+  "rules": [
+    {
+      "id": "arrow-right",
+      "source": "->",
+      "replacement": "→",
+      "enabled": true
+    },
+    {
+      "id": "arrow-left",
+      "source": "<-",
+      "replacement": "←",
+      "enabled": true
+    },
+    {
+      "id": "arrow-double-right",
+      "source": "=>",
+      "replacement": "⇒",
+      "enabled": true
+    },
+    {
+      "id": "not-equal",
+      "source": "!=",
+      "replacement": "≠",
+      "enabled": true
+    },
+    {
+      "id": "less-than-or-equal",
+      "source": "<=",
+      "replacement": "≤",
+      "enabled": true
+    },
+    {
+      "id": "greater-than-or-equal",
+      "source": ">=",
+      "replacement": "≥",
+      "enabled": true
+    },
+    {
+      "id": "approximately-equal",
+      "source": "~=",
+      "replacement": "≈",
+      "enabled": true
+    },
+    {
+      "id": "rule-47b631b7-b039-4569-b23c-ed64b40ecc2d",
+      "source": "$lsigma",
+      "replacement": "Σ",
+      "enabled": true
+    },
+    {
+      "id": "rule-2d203a6f-4f67-42e5-bb17-bcb09af966de",
+      "source": "$sigma",
+      "replacement": "ε",
+      "enabled": true
+    },
+    {
+      "id": "rule-846f78c3-3019-4ca5-ad30-4c2c40040396",
+      "source": "¬",
+      "replacement": "$not",
+      "enabled": true
+    },
+    {
+      "id": "rule-f8f2f665-3790-4987-9c17-205d87b855de",
+      "source": "$app",
+      "replacement": "∈",
+      "enabled": true
+    },
+    {
+      "id": "rule-91a2ddcf-f541-4223-b633-730047baafd2",
+      "source": "$inc",
+      "replacement": "⊂",
+      "enabled": true
+    },
+    {
+      "id": "rule-17d40fbf-b4b4-4985-9e52-4c043aef4e54",
+      "source": "$nul",
+      "replacement": "∅",
+      "enabled": true
+    },
+    {
+      "id": "rule-d75dbd4e-2b86-472f-a221-19b4fe1b0ce3",
+      "source": "$inter",
+      "replacement": "∩",
+      "enabled": true
+    },
+    {
+      "id": "rule-3ef7da6c-7503-4ae9-a18c-4743a4d15656",
+      "source": "$uni",
+      "replacement": "∪",
+      "enabled": true
+    },
+    {
+      "id": "rule-e24d3a8c-07ae-4e5f-ac06-d27f2b5a7bc5",
+      "source": "$RR",
+      "replacement": "ℝ",
+      "enabled": true
+    },
+    {
+      "id": "rule-f73ab8f8-db09-4145-8c0a-121977a531ad",
+      "source": "$pt",
+      "replacement": "∀",
+      "enabled": true
+    },
+    {
+      "id": "rule-5b1e051a-fcf4-4155-bf41-da641a6dd833",
+      "source": "$exis",
+      "replacement": "∃",
+      "enabled": true
+    },
+    {
+      "id": "rule-8f2409c7-c359-45ca-98ff-1d21e993918c",
+      "source": "$napp",
+      "replacement": "∉",
+      "enabled": true
+    },
+    {
+      "id": "rule-b0f8dc79-3d58-4b4b-a5f0-20add5e2bac4",
+      "source": "$NN",
+      "replacement": "ℕ",
+      "enabled": true
+    },
+    {
+      "id": "rule-67914fd0-6947-45e4-b37b-4c33e66b3c1e",
+      "source": "$ZZ",
+      "replacement": "ℤ",
+      "enabled": true
+    },
+    {
+      "id": "rule-6b685c63-e3a0-466b-9bec-9840c4793e02",
+      "source": "$QQ",
+      "replacement": "ℚ",
+      "enabled": true
+    }
+  ]
+}

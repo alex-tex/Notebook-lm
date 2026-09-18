@@ -13,27 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Analyse Math/Cours 2 - Théorie des ensembles et fonctions.md",
+                "file": "Courses/Langages Formels/Cours 1 - Intro au langages formels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cours 2 - Théorie des ensembles et fonctions"
+              "title": "Cours 1 - Intro au langages formels"
             }
           },
           {
-            "id": "b4336a2bd8a58046",
+            "id": "7d94d1e26f3baef4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260915135854.png"
+                "file": "Notes/À faire.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260915135854"
+              "icon": "lucide-file",
+              "title": "À faire"
+            }
+          },
+          {
+            "id": "8e3c7ffa559504f5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Courses/Langages Formels/cours1_lf_Drawing 2026-09-16 10.44.41.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "cours1_lf_Drawing 2026-09-16 10.44.41.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Analyse Math/Cours 2 - Théorie des ensembles et fonctions.md",
+                "file": "Notes/À faire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -241,11 +256,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "43a1449055e14ca4",
+  "active": "7d94d1e26f3baef4",
   "lastOpenFiles": [
+    "Courses/Langages Formels/Cours 1 - Intro au langages formels.md",
+    "Notes/À faire.md",
+    "Courses/Langages Formels/cours1_lf_Drawing 2026-09-16 10.44.41.excalidraw.md",
+    "Courses/Analyse Math/Cours 2 - Théorie des ensembles et fonctions.md",
     "diagram_venn.png",
     "Pasted image 20260915135854.png",
-    "Courses/Analyse Math/Cours 2 - Théorie des ensembles et fonctions.md",
     "Pasted image 20260915133048.png",
     "Pasted image 20260915132619.png",
     "Pasted image 20260915132129.png",
@@ -262,11 +280,8 @@
     "Raw/Courses/2 - Histoire de linformatique.pdf",
     "Courses/PFO",
     "logic.md",
-    "Courses/Langages Formels/Cours 1 - Intro au langages formels.md",
     "Courses/IPA (11X001)/Intro - 15.09.md",
-    "Pasted image 20260916135120.png",
     "Excalidraw/diagram.md",
-    "Excalidraw/cours1_lf_Drawing 2026-09-16 10.44.41.excalidraw.md",
     "Excalidraw/Drawing 2026-09-16 08.47.44.excalidraw.md",
     "Excalidraw/Drawing 2026-09-14 22.00.47.excalidraw.md",
     "Courses/Physique Générale/Cours 1 - Forces - 16.09.md",
