@@ -28,10 +28,9 @@ L2 = {acbb, accbb, acccbb, ...}
 
 **L2 est un log infini**
 
-taille d'un langage | L |:
-nombre de mot qu'il contient
+taille d'un langage | L |: nombre de mot qu'il contient
 
-|L1| = 8 | L2 | = inf
+| L1 | = 8 | L2 | = inf
 
 Langage vide noté ∅ = {} 
 
@@ -43,14 +42,15 @@ L = {ensemble}
 | L | = 1
 
 ex:
-E = {a,b}
- E* = {E, a ,b , aa, ab, bb}
--- 
-Soit E (ensemble), on note E* le langage de tous les mots 
+Σ = {a,b}
+Σ* = {E, a ,b , aa, ab, bb} 
 
-E+: idem mais mots de longueur au moins 1 
 
-E+ = E+ \ {ensemble}
+Soit Σ (ensemble), on note Σ* le langage de tous les mots 
+
+Σ+: idem mais mots de longueur au moins 1 
+
+Σ+ = Σ+ \ {ensemble}
 
 
 
