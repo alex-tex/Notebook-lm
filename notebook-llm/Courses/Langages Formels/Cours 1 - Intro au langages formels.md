@@ -5,7 +5,15 @@ profs:
 tags:
 date:
 ---
-Langage: ensemble de mots
+### Σ∗ : tous les mots possibles sur l’alphabet Σ
+
+supposons que Σ={a,b} on écrit Σ∗ pour désigner tous les mots possibles construits avec a et b, y compris le mot vide.
+
+Σ∗={ε, a, b, aa, ab, ba, aaa, aab, ... }
+
+### Langage: ensemble de mots
+
+L ⊂ Σ∗
 
 ex: L1 = {aab, aba, abb, baa, bab, bba, bbb}
 sur ensemb = {a,b}
@@ -41,11 +49,9 @@ E+: idem mais mots de longueur au moins 1
 
 E+ = E+ \ {ensemble}
 
-### Σ∗ : tous les mots possibles sur l’alphabet Σ
 
-supposons que Σ={a,b} on écrit Σ∗ pour désigner tous les mots possibles construits avec a et b, y compris le mot vide.
 
-Σ∗={ε, a, b, aa, ab, ba, aaa, aab, ... }
+
 
 
 ## Opérations
