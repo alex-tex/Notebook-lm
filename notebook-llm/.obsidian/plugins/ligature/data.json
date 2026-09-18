@@ -57,8 +57,8 @@
     },
     {
       "id": "rule-846f78c3-3019-4ca5-ad30-4c2c40040396",
-      "source": "¬",
-      "replacement": "$not",
+      "source": "$not",
+      "replacement": "¬",
       "enabled": true
     },
     {
@@ -81,13 +81,13 @@
     },
     {
       "id": "rule-d75dbd4e-2b86-472f-a221-19b4fe1b0ce3",
-      "source": "$inter",
+      "source": "$ii",
       "replacement": "∩",
       "enabled": true
     },
     {
       "id": "rule-3ef7da6c-7503-4ae9-a18c-4743a4d15656",
-      "source": "$uni",
+      "source": "$uu",
       "replacement": "∪",
       "enabled": true
     },
@@ -131,6 +131,18 @@
       "id": "rule-6b685c63-e3a0-466b-9bec-9840c4793e02",
       "source": "$QQ",
       "replacement": "ℚ",
+      "enabled": true
+    },
+    {
+      "id": "rule-e2b6b7d8-7ed5-4894-8724-6a3a438edbb7",
+      "source": "$et",
+      "replacement": "∧",
+      "enabled": true
+    },
+    {
+      "id": "rule-8f247c7c-b464-43b6-aa4d-ce912b422a85",
+      "source": "$ou",
+      "replacement": "∨",
       "enabled": true
     }
   ]

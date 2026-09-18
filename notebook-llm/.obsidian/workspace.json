@@ -47,8 +47,7 @@
               "title": "cours1_lf_Drawing 2026-09-16 10.44.41.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/À faire.md",
+                "file": "Courses/Langages Formels/Cours 1 - Intro au langages formels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -256,11 +255,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7d94d1e26f3baef4",
+  "active": "43a1449055e14ca4",
   "lastOpenFiles": [
-    "Courses/Langages Formels/Cours 1 - Intro au langages formels.md",
     "Notes/À faire.md",
     "Courses/Langages Formels/cours1_lf_Drawing 2026-09-16 10.44.41.excalidraw.md",
+    "Courses/Langages Formels/Cours 1 - Intro au langages formels.md",
     "Courses/Analyse Math/Cours 2 - Théorie des ensembles et fonctions.md",
     "diagram_venn.png",
     "Pasted image 20260915135854.png",

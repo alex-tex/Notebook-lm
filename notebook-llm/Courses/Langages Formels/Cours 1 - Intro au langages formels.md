@@ -22,7 +22,7 @@ nombre de mot qu'il contient
 
 |L1| = 8 | L2 | = inf
 
-Langage vide noté /o = {} (/o veut dire o barré)
+Langage vide noté ∅ = {} 
 
 >**Attention:**
 >Langage vide n'est pas un mot vide
@@ -41,11 +41,12 @@ E+: idem mais mots de longueur au moins 1
 
 E+ = E+ \ {ensemble}
 
-### Σ∗ : tous les mots possibles
+### Σ∗ : tous les mots possibles sur l’alphabet Σ
 
 supposons que Σ={a,b} on écrit Σ∗ pour désigner tous les mots possibles construits avec a et b, y compris le mot vide.
 
-Σ∗={ε, a, b, aa, ab, ba, 
+Σ∗={ε, a, b, aa, ab, ba, aaa, aab, ... }
+
 
 ## Opérations
 
