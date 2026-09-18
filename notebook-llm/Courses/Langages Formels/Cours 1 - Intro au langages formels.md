@@ -56,7 +56,7 @@ Soit Σ (ensemble), on note Σ* le langage de tous les mots
 
 il faut distinguer $Σ^∗$ et $Σ^n$  : car $Σ^n$ représente les mots de **longueur exactement $n$** (pas infini)
 
-**exemple:**
+**Exemple:**
 si  Σ={0,1}   alors:
 $Σ^0$={ε}
 $Σ^1$ = {0,1}
