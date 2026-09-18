@@ -66,7 +66,12 @@ $Σ^3$ = {000,001,010,011,100,101,110,111}
 
 >ATTENTION: **il faut pas non plus confondre avec Σ+**
 
+Σ+=Σ∗−{ε}​
 
+donc:
+Σ∗={**ε**,a,b,aa,ab,…}    et    Σ+={a,b,aa,ab,…}
+
+(ε désigne le mot vide)
 ## Opérations
 
 - Union: L1 u L2
