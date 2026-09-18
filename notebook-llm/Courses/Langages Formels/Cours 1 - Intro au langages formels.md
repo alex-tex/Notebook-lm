@@ -57,7 +57,11 @@ Soit Σ (ensemble), on note Σ* le langage de tous les mots
 il faut distinguer $Σ^∗$ et $Σ^n$  : car $Σ^n$ représente les mots de **longueur exactement $n$** (pas infini)
 
 **exemple:**
-Σ={0,1}
+si  Σ={0,1}   alors:
+$Σ^0$={ε}
+$Σ^1$ = {0,1}
+$Σ^2$ = {00,01,10,11}
+$Σ^3$ = {000,001,010,011,100,101,110,111}
 ## Opérations
 
 - Union: L1 u L2
