@@ -7,6 +7,8 @@ date:
 ---
 ### Alphabet 
 
+##### Définition:
+alphabet noté Σ: ensemble fini de symbols
 
 ### Σ∗ : tous les mots possibles sur l’alphabet Σ
 

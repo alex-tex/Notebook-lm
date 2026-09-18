@@ -45,13 +45,13 @@
     },
     {
       "id": "rule-47b631b7-b039-4569-b23c-ed64b40ecc2d",
-      "source": "$lsigma",
+      "source": "$lsig",
       "replacement": "Σ",
       "enabled": true
     },
     {
       "id": "rule-2d203a6f-4f67-42e5-bb17-bcb09af966de",
-      "source": "$sigma",
+      "source": "$sig",
       "replacement": "ε",
       "enabled": true
     },

@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "8e3c7ffa559504f5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Courses/Langages Formels/cours1_lf_Drawing 2026-09-16 10.44.41.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "cours1_lf_Drawing 2026-09-16 10.44.41.excalidraw"
+            }
+          },
+          {
             "id": "7d94d1e26f3baef4",
             "type": "leaf",
             "state": {
@@ -33,18 +45,6 @@
               },
               "icon": "lucide-file",
               "title": "À faire"
-            }
-          },
-          {
-            "id": "8e3c7ffa559504f5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Courses/Langages Formels/cours1_lf_Drawing 2026-09-16 10.44.41.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "cours1_lf_Drawing 2026-09-16 10.44.41.excalidraw"
             }
           }
         ]
