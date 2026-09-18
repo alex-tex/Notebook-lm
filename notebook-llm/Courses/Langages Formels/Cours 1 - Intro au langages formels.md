@@ -5,6 +5,9 @@ profs:
 tags:
 date:
 ---
+### Alphabet 
+
+
 ### Σ∗ : tous les mots possibles sur l’alphabet Σ
 
 supposons que Σ={a,b} on écrit Σ∗ pour désigner tous les mots possibles construits avec a et b, y compris le mot vide.
@@ -13,15 +16,15 @@ supposons que Σ={a,b} on écrit Σ∗ pour désigner tous les mots possibles co
 
 ### Langage: ensemble de mots
 
-L ⊂ Σ∗
+**L ⊂ Σ∗**
 
 ex: L1 = {aab, aba, abb, baa, bab, bba, bbb}
-sur ensemb = {a,b}
+sur  = {a,b}
 "Mots de longueur 3 utilisant a et b"
 L1 est un langage fini
 
 L2 = {acbb, accbb, acccbb, ...}
-"Mots qui commoncent par a, suivi d'un nom b arbitraire de c, suivi de b"
+"Mots qui commencent par a, suivi d'un nom b arbitraire de c, suivi de b"
 
 **L2 est un log infini**
 
