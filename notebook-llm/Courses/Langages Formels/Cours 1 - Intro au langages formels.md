@@ -54,6 +54,8 @@ Soit Σ (ensemble), on note Σ* le langage de tous les mots
 
 Σ+ = Σ+ \ {ensemble}
 
+il faut distinguer $Σ^∗$ et $Σ^n$  : $Σ^n$ représente les mots de **longueur exactement nn**.
+
 ## Opérations
 
 - Union: L1 u L2
