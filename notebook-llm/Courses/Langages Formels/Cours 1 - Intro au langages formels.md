@@ -82,9 +82,19 @@ donc:
 L1 o L2 = {w1 . w2 | w1 appartient à L1, w2 appartient à L2}
 (on utilise o mais je vais utiliser .. comme notation)
 
-types de Concatération:
-- associatif (u.v).w = u(v.w) = u.v.w
-- pas concatif: u.v ≠ v.u (en général)
-- élément neutre: u.ε = u
+**types de Concatération:**
+- **associatif** (u.v).w = u(v.w) = u.v.w
+- **pas concatif**: u.v ≠ v.u (en général)
+- **élément neutre**: u.ε = u
+
+**concatération d'un mot avec lui-même**:
+u.u = u^2
+u^0 = ε
+
+u^n = ε si n = 0  et sinon:  u.n^n-1
+
+w = abbc
+w^3 = abbc.abbc.abbc = abbcabbcabbc
+
 
 ![[cours1_lf_Drawing 2026-09-16 10.44.41.excalidraw|100%]]
