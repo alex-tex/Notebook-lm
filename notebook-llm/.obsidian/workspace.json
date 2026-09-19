@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Physique Générale/Untitled.md",
+                "file": "Cheat Sheets/Formules Trigo & Vecteurs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Formules Trigo & Vecteurs"
             }
           },
           {
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Physique Générale/Untitled.md",
+                "file": "Cheat Sheets/Formules Trigo & Vecteurs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -246,7 +246,7 @@
   "active": "43a1449055e14ca4",
   "lastOpenFiles": [
     "Courses/Langages Formels/Cours 1 - Intro au langages formels.md",
-    "Courses/Physique Générale/Untitled.md",
+    "Cheat Sheets/Formules Trigo & Vecteurs.md",
     "Notes/À faire.md",
     "Courses/Langages Formels/cours1_lf_Drawing 2026-09-16 10.44.41.excalidraw.md",
     "Courses/Analyse Math/Cours 2 - Théorie des ensembles et fonctions.md",

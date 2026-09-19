@@ -150,6 +150,12 @@
       "source": "$vid",
       "replacement": "∅",
       "enabled": true
+    },
+    {
+      "id": "rule-0344e9f1-d9b8-4b53-86e2-eb90fe6c9e9f",
+      "source": "$pi",
+      "replacement": "π​",
+      "enabled": true
     }
   ]
 }
