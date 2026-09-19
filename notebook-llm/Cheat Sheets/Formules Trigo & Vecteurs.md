@@ -4,6 +4,7 @@
 
 ## $rad = (deg*π)/180$ ​
 
+---
 # Trigo
 
 $\cos(\theta)=\frac{\text{adjacent}}{\text{hypoténuse}}$
