@@ -114,7 +114,7 @@ C'est simplement Pythagore.
 
 ### $\vec{a}\times\vec{b}=a_xb_y-a_yb_x$
 
-### ou en 3D :
+##### ou en 3D :
 
 ### $\vec{a}\times\vec{b}=(0,0,a_xb_y-a_yb_x)$
 
