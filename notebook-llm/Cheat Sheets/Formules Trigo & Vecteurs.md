@@ -86,7 +86,7 @@ $\vec{a}\cdot\vec{b}=\vec{b}\cdot\vec{a}$
 
 $|\vec{a}+\vec{b}|^2=|\vec{a}|^2+2(\vec{a}\cdot\vec{b})+|\vec{b}|^2$
 
-$|\vec{a}-\vec{b}|^2=|\vec{a}|^2-2(\vec{a}\cdot\vec{b})+|\vec{b}|^2$
+$|\vec{a}-\vec{b}|^2=|\vec{a}|^2+|\vec{b}|^2-2(\vec{a}\cdot\vec{b})$
 
 Donc le fameux terme :
 
