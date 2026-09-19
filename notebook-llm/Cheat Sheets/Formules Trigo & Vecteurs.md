@@ -16,6 +16,7 @@ $y=L\sin(\theta)$
 
 $(x,y)=(L\cos(\theta),L\sin(\theta))$
 
+---
 # Vecteurs
 
 $\vec{a}=(a_x,a_y)$
