@@ -141,3 +141,7 @@ $|\vec{a}|^2-2\vec{a}\cdot\vec{b}+|\vec{b}|^2$
 Si tu cherches l'angle entre deux vecteurs, pense directement :
 
 $\theta=\arccos\left(\frac{\vec{a}\cdot\vec{b}}{|\vec{a}||\vec{b}|}\right)$
+
+## Autres formules utiles de vecteurs
+
+![[Pasted image 20260919173505.png]]
