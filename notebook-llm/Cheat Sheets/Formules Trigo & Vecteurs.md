@@ -25,23 +25,6 @@ $(x,y)=(L\cos(\theta),L\sin(\theta))$
 
 ---
 # Vecteurs
-
-$\vec{a}=(a_x,a_y)$
-
-$\vec{b}=(b_x,b_y)$
-
-$\vec{a}+\vec{b}=(a_x+b_x,\ a_y+b_y)$
-
-$\vec{a}-\vec{b}=(a_x-b_x,\ a_y-b_y)$
-
-$\vec{a}+\vec{b}+\vec{c}=(a_x+b_x+c_x,\ a_y+b_y+c_y)$
-
-$\vec{a}\cdot\vec{b}=a_xb_x+a_yb_y$ 
-
-$\vec{a}\times\vec{b}=(0,\ 0,\ a_xb_y-a_yb_x)$
-
-$|\vec{a}|=\sqrt{a_x^2+a_y^2}$
-
 ### Vecteurs / composantes
 
 $\vec{a}=(a_x,a_y)$
