@@ -4,3 +4,5 @@
 
 -> output: nom.exe
 
+pour executer, taper just le nom de executeur (ou ouvrez)
+
