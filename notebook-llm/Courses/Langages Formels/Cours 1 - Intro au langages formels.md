@@ -73,13 +73,18 @@ donc:
 Σ∗={**ε**,a,b,aa,ab,…}    et    Σ+={a,b,aa,ab,…}
 
 (ε désigne le mot vide)
-## Opérations
+### Opérations
 
 - Union: L1 u L2
 - Intersection: L1 n L2
 - Complément: L = Σ* / L
-- Concatération: L1 o L2
+- Concatération: L1 o L2 
 L1 o L2 = {w1 . w2 | w1 appartient à L1, w2 appartient à L2}
+(on utilise o mais je vais utiliser .. comme notation)
 
+types de Concatération:
+- associatif (u.v).w = u(v.w) = u.v.w
+- pas concatif: u.v ≠ v.u (en général)
+- élément neutre: u.ε = u
 
 ![[cours1_lf_Drawing 2026-09-16 10.44.41.excalidraw|100%]]
