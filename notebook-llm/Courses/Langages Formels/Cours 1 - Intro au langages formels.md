@@ -96,5 +96,12 @@ u^n = ε si n = 0  et sinon:  u.n^n-1
 w = abbc
 w^3 = abbc.abbc.abbc = abbcabbcabbc
 
+si w = u.v  (u est préfixe et v est suffixe)
+plus généralement w = x.y.z (y est facteur de w) si w = w^R
+
+(préfixes et suffixes == cas particulier) 
+
+Inverse d'un mot:
+w = a1.a2.an   w^R = an.a2.a1
 
 ![[cours1_lf_Drawing 2026-09-16 10.44.41.excalidraw|100%]]
